@@ -1,2 +1,3 @@
-# ML-Master-Clustering
-Repository dedicated a Clustering Algorithms
+# Machine Learning
+
+Repository dedicated to Machine Learning
