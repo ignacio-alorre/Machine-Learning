@@ -7,7 +7,8 @@ from keras.layers import Flatten
 from keras.layers import TimeDistributed
 from keras.layers.convolutional import Conv1D
 from keras.layers.convolutional import MaxPooling1D
- 
+
+
 # split a univariate sequence into samples
 def split_sequence(sequence, n_steps):
 	X, y = list(), list()
